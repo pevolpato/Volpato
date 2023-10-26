@@ -1,15 +1,13 @@
+#titulo {
+    color: #ad8319 font-size: 30px;
+    text-align: center;
+}
 
-    #titulo {
-        color: #ad8319
-        font-size: 30px;
-        text-align: center;
-    }
-        
-     body{
-        background-color: #E0FFFF;
-    texto {
-        color: rgb(190, 209, 17)
-        font-size: 22px;
-        text-align: center; }   
-    .
-    }
+body {
+    background-color: #E0FFFF;
+}
+
+.texto {
+    color: rgb(190, 209, 17) font-size: 22px;
+    text-align: center;
+}
