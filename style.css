@@ -1,5 +1,6 @@
 #titulo {
-    color: #ad8319 font-size: 30px;
+    color: #ad8319; 
+    font-size: 30px;
     text-align: center;
 }
 
@@ -8,6 +9,7 @@ body {
 }
 
 .texto {
-    color: rgb(190, 209, 17) font-size: 22px;
+    color: rgb(190, 209, 17);
+     font-size: 22px;
     text-align: center;
 }
