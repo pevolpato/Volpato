@@ -8,10 +8,10 @@ body {
     
 }
 header {
-padding: 20px;
+padding: 10px;
 color: #445D48;
 font-size: 30px;
-border-bottom: 5px solid #29ADB2;
+border-bottom: 10px solid #29ADB2;
 background-color: #A3B763;
 }
 .cabecalho {
