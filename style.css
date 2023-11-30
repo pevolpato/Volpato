@@ -7,6 +7,14 @@
 body {
     
 }
+header {
+padding: 20px;
+color: blue;
+font-size: 30px;
+border-bottom: 5px solid #29ADB2;
+background-color: #A3B763;
+}
+
 .principal {
     background-color: #E0FFFF;
     padding: 30px;
