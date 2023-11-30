@@ -9,6 +9,7 @@ body {
 }
 .principal {
     background-color: #E0FFFF;
+    padding: 30px;
 }
 
 .texto {
@@ -27,6 +28,7 @@ body {
 
 .itens {
     font-style: italic;
+    padding: 20px;
 }
 
 .listas1 {
@@ -42,7 +44,7 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-    
+
 }
 
 .imgblocos {
