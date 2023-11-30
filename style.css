@@ -13,7 +13,9 @@ color: #445D48;
 font-size: 30px;
 border-bottom: 10px solid #29ADB2;
 background-color: #A3B763;
+justify-content: space-around;
 }
+
 .cabecalho {
     display: flex;
     justify-content: space-around;
