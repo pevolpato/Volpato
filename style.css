@@ -51,10 +51,7 @@ justify-content: space-around;
 
 h2 {
     text-align: center;
-    width: 10px;
-    height: 10px;
-    padding: 5px;
-    margin: 5px;
+    justify-content: space-around;
 }
 
 ul {
