@@ -1,5 +1,5 @@
 #titulo {
-    color: #ad8319; 
+    color: #FEFAE0; 
     font-size: 30px;
     text-align: center;
 }
@@ -22,7 +22,7 @@ justify-content: space-around;
 }
 
 .principal {
-    background-color: #E0FFFF;
+    background-color: #FEFAE0;
     padding: 30px;
 }
 
