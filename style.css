@@ -5,7 +5,7 @@
 }
 
 body {
-    
+    min-height: 100vh;
 }
 header {
 padding: 10px;
@@ -19,6 +19,7 @@ justify-content: space-around;
 .cabecalho {
     display: flex;
     justify-content: space-around;
+    padding: 20px;
 }
 
 .principal {
