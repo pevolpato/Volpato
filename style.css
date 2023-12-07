@@ -27,6 +27,7 @@ justify-content: space-around;
 .principal {
     background-color: #FEFAE0;
     padding: 30px;
+    border-bottom: 10px solid #A9B388;
 }
 
 .texto {
