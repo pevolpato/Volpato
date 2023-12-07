@@ -80,5 +80,5 @@ ul {
 .list-image {
     width: 30%;
     margin: 1%;
-
+    box-sizing: border-box;
 }
