@@ -68,3 +68,16 @@ ul {
 .imgblocos {
     width: 50%;
 }
+
+.segundalista {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+.list-image {
+    width: 48%;
+    margin: 0;
+
+}
